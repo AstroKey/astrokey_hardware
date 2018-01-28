@@ -3214,7 +3214,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <part name="D5" library="SparkFun-LED" library_urn="urn:adsk.eagle:library:529" deviceset="WS2812B" device="" package3d_urn="urn:adsk.eagle:package:39369/1" value="WS2812B"/>
 <part name="GND7" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="U2" library="miscellanious" deviceset="74*32" device="GW" technology="AHC1G">
-<attribute name="PARTNO" value="MC74VHC1GT08"/>
+<attribute name="PARTNO" value="MC74VHC1GT32"/>
 </part>
 <part name="GND8" library="SparkFun-PowerSymbols" deviceset="GND" device=""/>
 <part name="SUPPLY7" library="SparkFun-PowerSymbols" deviceset="V_USB" device=""/>
