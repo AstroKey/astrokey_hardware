@@ -3248,7 +3248,7 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <sheet>
 <plain>
 <text x="58.42" y="-15.24" size="1.778" layer="97">As per AN124 Fig 3.1
-Pin sharing C2D as output</text>
+Pin sharing C2D as input</text>
 <text x="-30.48" y="7.62" size="1.778" layer="97">As per Datasheet Fig 5.1</text>
 <text x="-43.18" y="-43.18" size="1.778" layer="97">Cheap logic gate (with appropriate input/output voltage thresholds) to convert the 3.3V logic to 5V</text>
 <text x="27.94" y="99.06" size="1.778" layer="97">Because only one LED will ever be on (software) and the current path will always
