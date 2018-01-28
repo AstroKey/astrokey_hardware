@@ -3895,6 +3895,18 @@ holding the SPI pins low</text>
 <wire x1="-20.32" y1="86.36" x2="-22.86" y2="86.36" width="0.1524" layer="91"/>
 </segment>
 </net>
+<net name="CS" class="0">
+<segment>
+<pinref part="U1" gate="G$1" pin="P0.4"/>
+<wire x1="58.42" y1="15.24" x2="66.04" y2="15.24" width="0.1524" layer="91"/>
+<label x="66.04" y="15.24" size="1.778" layer="95" rot="MR0"/>
+</segment>
+<segment>
+<pinref part="U3" gate="G$1" pin="!CS"/>
+<wire x1="91.44" y1="55.88" x2="83.82" y2="55.88" width="0.1524" layer="91"/>
+<label x="83.82" y="55.88" size="1.778" layer="95"/>
+</segment>
+</net>
 </nets>
 </sheet>
 </sheets>
