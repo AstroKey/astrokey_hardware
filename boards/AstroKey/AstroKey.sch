@@ -3838,7 +3838,7 @@ holding the SPI pins low</text>
 <net name="L1" class="0">
 <segment>
 <wire x1="66.04" y1="93.98" x2="27.94" y2="93.98" width="0.1524" layer="91"/>
-<label x="27.94" y="96.52" size="1.778" layer="95"/>
+<label x="27.94" y="93.98" size="1.778" layer="95"/>
 <pinref part="D8" gate="G$1" pin="A"/>
 <wire x1="66.04" y1="93.98" x2="66.04" y2="91.44" width="0.1524" layer="91"/>
 <wire x1="66.04" y1="93.98" x2="76.2" y2="93.98" width="0.1524" layer="91"/>
@@ -3873,7 +3873,7 @@ holding the SPI pins low</text>
 <wire x1="45.72" y1="96.52" x2="55.88" y2="96.52" width="0.1524" layer="91"/>
 <wire x1="55.88" y1="96.52" x2="55.88" y2="91.44" width="0.1524" layer="91"/>
 <junction x="45.72" y="96.52"/>
-<label x="27.94" y="93.98" size="1.778" layer="95"/>
+<label x="27.94" y="96.52" size="1.778" layer="95"/>
 </segment>
 <segment>
 <pinref part="U1" gate="G$1" pin="P1.1"/>
