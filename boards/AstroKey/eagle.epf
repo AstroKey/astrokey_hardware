@@ -1,0 +1,21 @@
+[Eagle]
+Version="08 06 00"
+Platform="Windows"
+Globals="Globals"
+Desktop="Desktop"
+
+[Globals]
+AutoSaveProject=1
+UsedLibraryUrn="urn:adsk.eagle:library:544547"
+UsedLibraryUrn="urn:adsk.eagle:library:534010"
+UsedLibraryUrn="urn:adsk.eagle:library:524"
+UsedLibraryUrn="urn:adsk.eagle:library:529"
+UsedLibrary="C:/Users/Aaron/Documents/FuseBits/lib/SparkFun-Eagle-Libraries/SparkFun-Electromechanical.lbr"
+
+[Win_1]
+Type="Control Panel"
+Number=0
+
+[Desktop]
+Screen="1920 1080"
+Window="Win_1"
